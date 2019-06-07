@@ -1,0 +1,17 @@
+
+@media screen and (min-width: 480px) {
+    body {
+      background-color: lightgreen;
+    }
+  }
+  
+.header {
+    font-size: 30;
+    background-color: blue;
+    color: aqua;
+    padding: 10px;
+}
+
+.bio {
+    
+}
